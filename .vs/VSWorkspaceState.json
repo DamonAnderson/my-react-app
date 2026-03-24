@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\src"
   ],
-  "SelectedNode": "\\C:\\Users\\savan\\Source\\Repos\\my-react-app",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
