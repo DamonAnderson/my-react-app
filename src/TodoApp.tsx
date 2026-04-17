@@ -1,4 +1,4 @@
-﻿import { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 // ============================================================
 // 1. TYPESCRIPT INTERFACES — define your data shapes first!
